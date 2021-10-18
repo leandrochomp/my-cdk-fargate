@@ -1,6 +1,4 @@
-# my-cdk-fargate
-
-## Creating FARGATE instance using aws-cdk 
+# my-cdk-fargate - Creating FARGATE instance using aws-cdk 
 
 Language: TypeScript
 
