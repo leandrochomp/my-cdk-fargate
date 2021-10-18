@@ -1,2 +1,7 @@
 # my-cdk-fargate
-Create FARGATE instance using aws-cdk
+Creating FARGATE instance using aws-cdk 
+
+Video Instructions: 
+https://www.youtube.com/watch?v=MgfzMTKoQYY
+
+
